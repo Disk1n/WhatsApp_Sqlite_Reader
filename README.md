@@ -10,5 +10,11 @@ Code to extract messages from WhatsApp sqlite DB (written in Python as Jupyter n
 2. jupyter notebook 
 3. surf to http://localhost:8888 (if it doesn't open automatically due to step 2) and choose the notebook from this repository
 
+## Android
+[The following project was suggested as a way to extract the DB from Android encryption](https://github.com/YuriCosta/WhatsApp-GD-Extractor-Multithread). I haven't looked at it myself but including it here in case you are looking for somehting like that. 
+
+## Future work
+I might add tools to analyze conversations and list them in a more user friendly way if I get bored
+
 ## Contributions and License
 This code is free to use in any way, just give credit. Feel free to propose pull requests if you have improvements to suggest
